@@ -7,6 +7,7 @@
 ## Introduction
 This is a <b>github markdown</b> example
 ## Get Start
+Just want to show how to display a part of the code
 ```
 $ npm start
 ```
