@@ -14,6 +14,7 @@ $ npm start
 OR <br>
 ```javascript
 console.log("Hello World!")
+var a = 1;
 ```
 ## TO-DO List
 - [X] html
